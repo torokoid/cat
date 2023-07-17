@@ -69,7 +69,7 @@ body::before {
 <!--
 <body onload="alert('エンプティーズ と レプレッションズ、忘年会の記録です！')" onunload="alert('再会の時まで、元気でお過ごしくださいませ。またやりましょう〜(^o^)/')">
 -->
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2023/07/15,Cat Comming !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2023/07/15,Cat Comming !!!</marquee></span></h1>
 
 
 
