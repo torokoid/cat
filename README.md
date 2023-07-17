@@ -79,7 +79,7 @@ body::before {
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 	
 	
-<h2><span class="yellow"><marquee behavior="alternate">!!! 2023年7月15日、Cat !!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="left">!!! 2023年7月15日、Cat !!!</marquee></span></h2>
 	
 <h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。</span></h3>
 <div style="background-color:rgb(255,255,255,0.5);">
