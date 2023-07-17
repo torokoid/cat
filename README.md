@@ -70,7 +70,7 @@ body::before {
 <body onload="alert('エンプティーズ と レプレッションズ、忘年会の記録です！')" onunload="alert('再会の時まで、元気でお過ごしくださいませ。またやりましょう〜(^o^)/')">
 -->
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2023/07/15,Cat Comming !!!</marquee></span></h1>
-<!--
+
 <div style="background-color:rgb(255,255,255,0.5);">
 
 <p align="right">Cat Pic</p>
@@ -107,5 +107,5 @@ body::before {
 
 <!-- フッタ -->
  <footer>
- <span class="white">Copyright 2023/07/14 S.Hada</span>
+ <span class="white">Copyright 2023/07/17 S.Hada</span>
  </footer>
