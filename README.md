@@ -89,7 +89,7 @@ body::before {
 <a href="20230717_003.JPG" data-lightbox="abc"><img src="20230717_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230717_004.JPG" data-lightbox="abc"><img src="20230717_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230717_005.JPG" data-lightbox="abc"><img src="20230717_005.JPG" alt="サンプル画像" width="900" /></a>
-<a href= "https://youtube.com/shorts/DZlr0La1dVs" >YouTube</a>
+<a href= "https://youtube.com/shorts/DZlr0La1dVs" >⇨ YouTube</a>
 
 
 
