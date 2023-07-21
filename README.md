@@ -92,8 +92,15 @@ body::before {
 
 <br><br>
 <h2>
-<a href= "https://youtube.com/shorts/DZlr0La1dVs" >⇨ YouTube</a>
+<a href= "https://youtube.com/shorts/DZlr0La1dVs" >⇨ YouTube</a
 </h2>
+</div>
+
+<br><br>
+<div style="background-color:rgb(255,255,255,0.5);">
+<h4><span class="white">7月20日、Cat going !</span></h4>
+<a href="20230717_006.JPG" data-lightbox="abc"><img src="20230717_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230717_007.JPG" data-lightbox="abc"><img src="20230717_007.JPG" alt="サンプル画像" width="900" /></a>
 </div>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
