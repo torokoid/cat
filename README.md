@@ -92,7 +92,7 @@ body::before {
 
 <br><br>
 <h2>
-<a href= "https://youtube.com/shorts/DZlr0La1dVs" >⇨ YouTube</a
+<a href= "https://youtube.com/shorts/DZlr0La1dVs" >⇨ YouTube</a>
 </h2>
 </div>
 
