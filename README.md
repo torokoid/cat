@@ -108,7 +108,7 @@ body::before {
 </div>
 
 <div style="background-color:rgb(255,255,255,0.5);">
-<h4><span class="white">7月21日、新しいステネコちゃんが肩の上に ! !</span></h4>
+<h4><span class="blue">7月21日、新しいネコちゃんが肩の上に ! !</span></h4>
 <a href="20230717_008.JPG" data-lightbox="abc"><img src="20230717_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230717_009.JPG" data-lightbox="abc"><img src="20230717_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230717_010.JPG" data-lightbox="abc"><img src="20230717_010.JPG" alt="サンプル画像" width="900" /></a>
