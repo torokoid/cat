@@ -97,9 +97,13 @@ body::before {
 </div>
 
 <br><br>
+<h3><span class="white">やっとなついてママにすりよったネコちゃん。</span></h3>
 <div style="background-color:rgb(255,255,255,0.5);">
-<h4><span class="white">7月20日、Cat going !</span></h4>
+<h4><span class="white">7月20日、Cat going !<br>
+朝は元気に起き上がってましたが・・・</span></h4>
 <a href="20230717_006.JPG" data-lightbox="abc"><img src="20230717_006.JPG" alt="サンプル画像" width="900" /></a>
+<br>
+<h4><span class="white">獣医さんの触診中にショック死 !</span></h4>
 <a href="20230717_007.JPG" data-lightbox="abc"><img src="20230717_007.JPG" alt="サンプル画像" width="900" /></a>
 </div>
 
